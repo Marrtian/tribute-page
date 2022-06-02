@@ -1,0 +1,14 @@
+.lightgray-background{background-color: lightgray}
+.white-background{background-color: white}
+.thick-white-border{border-color: white;
+  border-width: 100px;
+  border-style: solid;}
+h1{text-align: center;}
+h2{text-align: center;
+   font-size: 18px;
+   font-family: monospace;}
+p{font-size: 25px;}
+p3{font-size: 23px;}
+p4{text-align: center;}
+main{font-family:Calibri;
+font-size: 18px;}
